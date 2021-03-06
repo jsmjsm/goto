@@ -41,5 +41,5 @@ func (s *URLStore) Put(url string) string {
 		}
 	}
 	// shouldn't get here
-	return ""
+	//return ""
 }
