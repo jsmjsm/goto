@@ -1,0 +1,10 @@
+{
+    "cSpell.enableFiletypes": [
+        "dockerfile",
+        "go.mod",
+        "go.sum",
+        "sql",
+        "vue",
+        "xml"
+    ]
+}
